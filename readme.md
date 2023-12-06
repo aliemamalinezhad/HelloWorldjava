@@ -1,4 +1,4 @@
 ## Running Description:
 
-    ### javac Helloworld.java
-    ### java Helloworld
+    - javac Helloworld.java
+    - java Helloworld
